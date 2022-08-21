@@ -1,1 +1,1 @@
-# First-Thesis
+# BSc Thesis
