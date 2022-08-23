@@ -4,4 +4,4 @@ This repository contains code and simulation data from the bachelor thesis: "Inf
 The code depends on the work:
 https://github.com/DepartmentofNeurophysiology/Dynamic-clamp-information-protocol
 
-code files must be placed in /code/foundations/ folder.
+Code files must be placed in /code/foundations/ folder.
