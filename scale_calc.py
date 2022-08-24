@@ -11,10 +11,10 @@ from Functions import input_simulation, adex_model, buya_spiketrain_calc
 import datetime
 
 '''
-1. Create hidden state and input with 'probe' values(uq = 1.3, tau = 20)
-2. Run adex model with varying scale to find firing rate = (2.6 and 0.27) Hz
+1. Create hidden state and input with 'probe' values(uq = 1.3, tau = 20).
+2. Run adex model with varying scale to find firing rate = (2.6 and 0.27) Hz.
 3. Choose range start and end, choose frequency values to look for and run simulation with values in range.
-4. Plot
+4. Plot.
 
 '''
 #%% 1. Create hidden state and input with 'probe' values(uq = 1.3, tau = 20)
